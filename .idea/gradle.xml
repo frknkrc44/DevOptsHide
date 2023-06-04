@@ -10,8 +10,8 @@
         <option name="gradleJvm" value="Embedded JDK" />
         <option name="modules">
           <set>
-            <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/../../../lana/Belgeler/DevOptsHide" />
+            <option value="$PROJECT_DIR$/../../../lana/Belgeler/DevOptsHide/app" />
           </set>
         </option>
       </GradleProjectSettings>
